@@ -1,9 +1,9 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852835374559658014 )](https://discord.com/users/852835374559658014)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/288383542604333057 )](https://discord.com/users/288383542604333057) </br>
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="Parzival"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JeParzival&theme=dark&show_icons=true&locale=en" alt="Parzival"  ></p>
+<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="Parzival"  /></p><p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=JeParzival&theme=dark&show_icons=true&locale=en" alt="Parzival"  ></p>
                   
 🔗 &nbsp;**Contact with me**
-<p align="center">
+<p align="left">
 <a href="https://discord.com/devmind" target"blank_"><img src="https://img.shields.io/badge/DevMind%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31dj7rpkh76vh2maepbxi57i6a3e" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/fck_parzival" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
