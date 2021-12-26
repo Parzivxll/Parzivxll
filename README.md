@@ -3,7 +3,7 @@
 <p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="Parzival"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JeParzival&theme=dark&show_icons=true&locale=en" alt="Parzival"  ></p>
                   
 🔗 &nbsp;**Contact with me**
-<p align="left">
+<p align="center">
 <a href="https://discord.com/devmind" target"blank_"><img src="https://img.shields.io/badge/DevMind%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31dj7rpkh76vh2maepbxi57i6a3e" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/fck_parzival" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -16,7 +16,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> </a>  </br>
 
 🔗 &nbsp; **Software Languages**
-<p align="left">  
+<p align="right">  
 <a href="#" target="_blank"> <img src="https://turkmenzaman.com/assets/images/javascript-39417.png" alt="JavaScript" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/c/18/css.svg" alt="css" width="40" height="40"/> </a>
