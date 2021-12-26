@@ -16,7 +16,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> </a>  </br>
 
 🔗 &nbsp; **Software Languages**
-<p align="right">  
+<p align="left">  
 <a href="#" target="_blank"> <img src="https://turkmenzaman.com/assets/images/javascript-39417.png" alt="JavaScript" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/c/18/css.svg" alt="css" width="40" height="40"/> </a>
