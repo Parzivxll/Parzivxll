@@ -19,7 +19,7 @@
 <a href="#" target="_blank"> <img src="https://hackaday.com/wp-content/uploads/2019/09/python-logo.png" alt="py" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="bashscript" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/bash-icon_0.png?itok=JZG6p4sq" alt="c#" width="40" height="40"/> </a></br>  
-🔗 &nbsp;**Programs** </br>  
+🔗 &nbsp; **Programs** </br>  
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a>
