@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://www.mongodb.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> </a> </br>  
+
 🔗 &nbsp;**Software Languages** </br>  
 <p align="left">  
 <a href="#" target="_blank"> <img src="https://turkmenzaman.com/assets/images/javascript-39417.png" alt="JavaScript" width="40" height="40"/> </a>
@@ -19,6 +20,7 @@
 <a href="#" target="_blank"> <img src="https://hackaday.com/wp-content/uploads/2019/09/python-logo.png" alt="py" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="bashscript" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/bash-icon_0.png?itok=JZG6p4sq" alt="c#" width="40" height="40"/> </a></br>  
+
 🔗 &nbsp;**Programs** </br>  
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
