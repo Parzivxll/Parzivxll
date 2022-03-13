@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/288383542604333057 )](https://discord.com/users/945275057406627910)</br> </br>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/945275057406627910 )](https://discord.com/users/945275057406627910)</br> </br>
 
 <a><img align="center" width="%100" src="https://cdn.discordapp.com/attachments/882657225221505054/924645959122690068/Parzival.png"></a> </br>
 
