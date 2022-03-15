@@ -1,5 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/945275057406627910 )](https://discord.com/users/945275057406627910)
-<a><img align="center" width="%50" src="https://cdn.discordapp.com/attachments/882657225221505054/924645959122690068/Parzival.png"></a> </br>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/945275057406627910 )](https://discord.com/users/945275057406627910) <a><img align="center" width="%50" src="https://cdn.discordapp.com/attachments/882657225221505054/924645959122690068/Parzival.png"></a> </br>
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="Parzival"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JeParzival&theme=dark&show_icons=true&locale=en" alt="Parzival"  ></p>
                   
