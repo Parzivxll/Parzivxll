@@ -1,6 +1,6 @@
 # ✨ Hi! I'm Parzival ✨.
-<img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Parzival" alt="Parzival" />
-🖥️ I'm a Jr. Front-End developer with several months of experience. 🖥️
+<img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=🖥️+ I'm+ a+ Jr.+ Front-End+ developer+ with+ several+ months+ of+ experience.+ 🖥️" alt="Parzival" />
+
 
 ![natsusa profile](https://komarev.com/ghpvc/?username=Parzivxll&color=blueviolet)
 
