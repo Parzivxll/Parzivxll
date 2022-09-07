@@ -1,4 +1,4 @@
-# ✨ Hi! I'm natsusa ✨.
+# ✨ Hi! I'm Parzival ✨.
 🖥️ I'm a Jr. Front-End developer with several months of experience. 🖥️
 
 ![natsusa profile](https://komarev.com/ghpvc/?username=Parzivxll&color=blueviolet)
