@@ -2,10 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+I+am+a+Jr.+Front-End+developer+with+several+months+of+experience.+🖥️" alt="Parzival" />
 
 
-![natsusa profile](https://komarev.com/ghpvc/?username=Parzivxll&color=blueviolet)
+![Parzival profile](https://komarev.com/ghpvc/?username=Parzivxll&color=blueviolet)
 
 # About me
-I'm 20 years old a junior developer. I love coding and watching anime or play games. I have 5-7 months experience and I'm doing this for fun. Also I'm planning learn Python, React Native and Nest.JS
+I'm 20 years old a junior developer. I love coding and watching anime or play games. I have almost 1 year experience and I'm doing this for fun. Also I'm planning learn Python, React Native and Nest.JS
 
 ## 🌐 Techs & Langs🌐
 #### Langs
