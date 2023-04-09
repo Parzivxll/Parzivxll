@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Istanbul,Turkey.</h3>
 <img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+I+am+a+Jr.+Full-Stack+developer+with+one+year+of+experience.+🖥️" alt="Parzival" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=parzivxll&label=Profile%20views&color=0e75b6&style=flat" alt="parzivxll" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parzivxll&label=Profile%20views&color=0e75b6&style=flat" alt="parzivxll" /> </p>
 <p align="center"> <img src="https://i.pinimg.com/236x/25/20/65/252065223201e4ca49070f19206ad965.jpg" /></p>
 
 
