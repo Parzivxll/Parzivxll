@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/pemrn" target="blank"><img src="https://img.shields.io/twitter/follow/pemrn?logo=twitter&style=for-the-badge" alt="pemrn" /></a> </p>
 
-- 🔭 I’m currently working on **Taskify**
+- 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **.NET**
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript/TypeScript**
 
 - 📫 How to reach me **https://discord.gg/serendia**
 
