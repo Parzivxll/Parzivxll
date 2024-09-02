@@ -2,6 +2,8 @@
 <h3 align="center">A passionate web developer from Istanbul,Turkey.</h3>
 <img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+I+am+a+Mid.+Full-Stack+developer+with+more+than+4+years+of+experience.+🖥️" alt="Parzival" />
 
+<a href="https://app.daily.dev/parzivxll"><img src="https://api.daily.dev/devcards/v2/t4IaAjz5jL7Xb3zfPR09E.png?r=bji&type=wide" width="652" alt="Emirhan Kara's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parzivxll&label=Profile%20views&color=0e75b6&style=flat" alt="parzivxll" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parzivxll" alt="parzivxll" /></a> </p>
