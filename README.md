@@ -77,7 +77,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Parzivxll/Parzivxll/output/snake.svg" alt="Snake animation" />
-
 ###
